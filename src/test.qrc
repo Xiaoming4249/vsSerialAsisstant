@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.10)
+project(20)set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_INCLUDE_CURRENT_DIR ON)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/bin)
+set(CMAKE_AUTOMOC ON)set(CMAKE_AUTORCC ON)
+## 一定要在使用 qt5_add_resources前调用find_package.因为你需要先导入Qt5的库后才会有qt5_add_resources这个函数。
+## qt5_add_resources这个函数是在qt5的CMakeLists.txt的库中。所以以后还是在开头导入库为好。
+set(Qt5_DIR "C:\\Qt\\Qt5_12_MSVC\\lib\\cmake\\Qt5") 
+# Windows中find_package(Qt5 COMPONENTS Core Gui Widgets REQUIRED)
+# 添加资源文件(添加好的资源要参与编译，所以add_library和add_executable中都可能需要加)
+set(QRC_FILE resource.qrc)
+qt5_add_resources(QRC ${QRC_FILE})
+add_executable(20 main.cpp Dialog.cpp Dialog.h ${QRC})
+ # 记得把资源文件也参与编译！
+ target_link_libraries(20 PUBLIC Qt5::Core Qt5::Gui Qt5::Widgets)
