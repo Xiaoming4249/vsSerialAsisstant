@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "D:/Code_project/c++/vsSerialAsisstant/build/serial_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Code_project/c++/vsSerialAsisstant/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Code_project/c++/vsSerialAsisstant/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Code_project/c++/vsSerialAsisstant",
+	"CMAKE_SOURCE_DIR" : "D:/Code_project/c++/vsSerialAsisstant",
+	"INCLUDE_DIR" : "D:/Code_project/c++/vsSerialAsisstant/build/serial_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Code_project/c++/vsSerialAsisstant/src/resources/icons/test-icon.PNG"
+	],
+	"LOCK_FILE" : "D:/Code_project/c++/vsSerialAsisstant/build/CMakeFiles/serial_autogen.dir/AutoRcc_res_F4FAE6NH3Q_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "F4FAE6NH3Q",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/Programs/study/Qt/Qt5.9.9/5.9.9/mingw53_32/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Code_project/c++/vsSerialAsisstant/build/CMakeFiles/serial_autogen.dir/AutoRcc_res_F4FAE6NH3Q_Used.txt",
+	"SOURCE" : "D:/Code_project/c++/vsSerialAsisstant/src/resources/res.qrc",
+	"VERBOSITY" : 0
+}

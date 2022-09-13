@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+da63d9639c7633cae75ffdc9fcd820f9 CMakeFiles/serial_autogen
+6e0bc1abfec5a46ae82c8e2da7f39720 serial_autogen/F4FAE6NH3Q/qrc_res.cpp

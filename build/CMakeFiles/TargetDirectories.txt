@@ -1,0 +1,4 @@
+D:/Code_project/c++/vsSerialAsisstant/build/CMakeFiles/serial.dir
+D:/Code_project/c++/vsSerialAsisstant/build/CMakeFiles/edit_cache.dir
+D:/Code_project/c++/vsSerialAsisstant/build/CMakeFiles/rebuild_cache.dir
+D:/Code_project/c++/vsSerialAsisstant/build/CMakeFiles/serial_autogen.dir

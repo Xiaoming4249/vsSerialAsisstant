@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/Code_project/c++/vsSerialAsisstant/build",
+  "command": "D:\\Programs\\study\\Qt\\Qt5.9.9\\Tools\\mingw530_32\\bin\\i686-w64-mingw32-g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/serial.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\serial.dir\\serial_autogen\\mocs_compilation.cpp.obj -c D:\\Code_project\\c++\\vsSerialAsisstant\\build\\serial_autogen\\mocs_compilation.cpp",
+  "file": "D:/Code_project/c++/vsSerialAsisstant/build/serial_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "D:/Code_project/c++/vsSerialAsisstant/build",
+  "command": "D:\\Programs\\study\\Qt\\Qt5.9.9\\Tools\\mingw530_32\\bin\\i686-w64-mingw32-g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/serial.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\serial.dir\\src\\main.cpp.obj -c D:\\Code_project\\c++\\vsSerialAsisstant\\src\\main.cpp",
+  "file": "D:/Code_project/c++/vsSerialAsisstant/src/main.cpp"
+},
+{
+  "directory": "D:/Code_project/c++/vsSerialAsisstant/build",
+  "command": "D:\\Programs\\study\\Qt\\Qt5.9.9\\Tools\\mingw530_32\\bin\\i686-w64-mingw32-g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/serial.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\serial.dir\\src\\mainwindow.cpp.obj -c D:\\Code_project\\c++\\vsSerialAsisstant\\src\\mainwindow.cpp",
+  "file": "D:/Code_project/c++/vsSerialAsisstant/src/mainwindow.cpp"
+},
+{
+  "directory": "D:/Code_project/c++/vsSerialAsisstant/build",
+  "command": "D:\\Programs\\study\\Qt\\Qt5.9.9\\Tools\\mingw530_32\\bin\\i686-w64-mingw32-g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/serial.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\serial.dir\\src\\serialctrl.cpp.obj -c D:\\Code_project\\c++\\vsSerialAsisstant\\src\\serialctrl.cpp",
+  "file": "D:/Code_project/c++/vsSerialAsisstant/src/serialctrl.cpp"
+},
+{
+  "directory": "D:/Code_project/c++/vsSerialAsisstant/build",
+  "command": "D:\\Programs\\study\\Qt\\Qt5.9.9\\Tools\\mingw530_32\\bin\\i686-w64-mingw32-g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/serial.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\serial.dir\\serial_autogen\\F4FAE6NH3Q\\qrc_res.cpp.obj -c D:\\Code_project\\c++\\vsSerialAsisstant\\build\\serial_autogen\\F4FAE6NH3Q\\qrc_res.cpp",
+  "file": "D:/Code_project/c++/vsSerialAsisstant/build/serial_autogen/F4FAE6NH3Q/qrc_res.cpp"
+}
+]
